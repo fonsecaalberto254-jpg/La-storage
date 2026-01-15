@@ -12,3 +12,13 @@ h6{
 h2{
     text-decoration: underline;
 }
+cooltext{
+    color: rgb(39, 155, 39);
+}
+p{
+    color: rgb(38, 108, 108);
+    font-family: 'Times New Roman', Times, serif;
+}
+body{
+    color: rgb(96, 34, 34);
+}
